@@ -364,6 +364,10 @@ async def enviar_whatsapp(numero: str, mensagem: str):
 
 > Suite Playwright que abre o link do criativo do anúncio, scrolla a página, clica nos botões e preenche o checkout automaticamente — validando cada evento do Meta Pixel interceptando as requisições HTTP em tempo real.
 
+<div align="center">
+<img src="./e2e-flow.svg" alt="E2E Test Flow — Meta Pixel + Checkout" width="520"/>
+</div>
+
 ```typescript
 // tests/meta-ads-checkout.spec.ts
 import { test, expect, Page } from '@playwright/test'
