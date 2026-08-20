@@ -44,6 +44,77 @@ class LuísOtávioGuero:
 
 ---
 
+## 🕓 Atividade Recente
+
+<div align="center">
+
+> Área dedicada ao que está em andamento **agora** — atualizada conforme o progresso real dos projetos, igual a um feed de commits.
+
+</div>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### 🧠 NVIDIA Modulus — Digital Twins & Physics-ML
+`UFSM · GEDRE (Grupo de Estudos de Reatores Eletrônicos)` · em andamento
+
+Projeto Python aplicado a **Digital Twins com IA**, dentro da iniciativa de Comunicação por Luz Visível (VLC) do GEDRE. O foco é usar o **NVIDIA Modulus** (framework de Physics-Informed Machine Learning) para modelar e simular sistemas físicos.
+
+**📌 Status atual — o que já foi feito:**
+- 🔴 ~~Tentativa inicial no Visual Studio Code~~ → abandonada por falta de tutoriais compatíveis com o ambiente local
+- 🟢 Migração para **Google Colab** (Python + GPU gratuita) — ambiente atual de trabalho
+- 🟡 Contorno de um link quebrado no GitLab da Nvidia, localizando o repositório correto por fóruns e comunidades
+- 🟢 Clonagem do repositório oficial via token de acesso pessoal (`read repository`)
+- 🟢 Instalação das dependências (`setup.py install`) a partir do repositório clonado
+- 🟠 **Bloqueio atual:** incompatibilidade de versão do Python no Colab — downgrade controlado em andamento para rodar o exemplo oficial da Nvidia
+
+**🔜 Próximos passos:**
+1. Finalizar o downgrade de versão do Python no Colab
+2. Rodar o exemplo oficial da Nvidia até a conclusão
+3. Validar o ambiente configurado e consolidar o entendimento dos conceitos-base do Modulus
+4. Clonar e testar exemplos adicionais de aplicações do Modulus
+
+```bash
+# Ambiente: Google Colab (Python + GPU)
+!git clone https://<username>:<token>@gitlab.com/nvidia/modulus/modulus.git
+%cd ./modulus/
+!python setup.py install
+```
+
+</td>
+<td width="30%" valign="top">
+
+**Stack**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Modulus-0d1117?style=flat-square&logo=nvidia&logoColor=38bdf8)
+![Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=38bdf8)
+
+**Linha do tempo**
+
+```
+🔴 VS Code           (descontinuado)
+   │
+🟢 Google Colab       ativo
+   │
+🟡 Fix GitLab link    resolvido
+   │
+🟢 Clone + install    concluído
+   │
+🟠 Downgrade Python   em progresso
+   │
+⚪ Exemplo Nvidia      próximo
+```
+
+**Aprendizado**
+> "Resiliência e adaptação técnica diante de obstáculos de ambiente e dependências open source."
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Stack Técnica Completa
 
 <div align="center">
@@ -111,20 +182,9 @@ RESTORE DATABASE 'backup.fbk' TO 'destino.fdb' PAGE_SIZE 8192;
 ### UFSM — GEDRE (Grupo de Estudos de Reatores Eletrônicos)
 `junho – dezembro 2023`
 
-Programador Python no projeto **Visible Light Communication com IA** — sistema que utiliza inteligência artificial para manipular comunicação por luz visível (VLC).
+Programador Python no projeto **Visible Light Communication com IA** — sistema que utiliza inteligência artificial para manipular comunicação por luz visível (VLC), com o NVIDIA Modulus como ferramenta de Physics-ML. Detalhes completos e status atual na seção [🕓 Atividade Recente](#-atividade-recente), acima.
 
 ```python
-# Ambiente configurado: NVIDIA Modulus via Google Colab
-# VSCode não tinha suporte para as dependências — migração necessária
-
-# Clone do repositório Modulus (GitLab Nvidia)
-# !git clone https://<user>:<token>@gitlab.com/nvidia/modulus/modulus.git
-
-# Desafios enfrentados e resolvidos:
-# 1. Link GitLab da Nvidia desativado → busca em fóruns e comunidades
-# 2. Incompatibilidade de versão Python no Colab → downgrade controlado
-# 3. Instalação de dependências a partir de fontes alternativas verificadas
-
 # Stack: Python · C++ · NVIDIA Modulus (Physics-ML) · Google Colab GPU
 ```
 
