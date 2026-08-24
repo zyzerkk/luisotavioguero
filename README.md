@@ -1,70 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:112240&height=210&section=header&text=Luís%20Otávio%20Guero&fontSize=50&fontColor=e2e8f0&fontAlignY=42&desc=Python%20·%20C%2B%2B%20·%20TypeScript%20·%20SQL%20·%20Embedded%20Systems%20·%20AI&descAlignY=62&descSize=14&descColor=64748b&animation=fadeIn" width="100%"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=38&lines=Engenharia+Aeroespacial+%7C+UFSM+2023%E2%80%93presente;CubeSat+%7C+RF+LoRa+%7C+Sistemas+Embarcados+C%2B%2B;Python+%7C+FastAPI+%7C+OpenAI+%7C+Automa%C3%A7%C3%A3o+WhatsApp;Database+Migration+%7C+FDB+%7C+PostgreSQL+%7C+MySQL;Playwright+E2E+%7C+Meta+Pixel+Tracking+%7C+Node.js;NVIDIA+Modulus+%7C+VLC+com+IA+%7C+UFSM+GEDRE" />
+# Hi 👋 I'm Luís Otávio Guero
+
+### Engenharia Aeroespacial · UFSM (2023–presente) · Python + Embedded Systems Developer
+
+🥇 2x Campeão Nacional OBSAT · 🛰️ CubeSat lançado em foguete sub-orbital · 📍 Santa Maria, RS — Brasil
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisotavioguero-112240?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/luisotavioguero)
-[![GitHub](https://img.shields.io/badge/GitHub-zyzerkk-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/zyzerkk)
-[![Email](https://img.shields.io/badge/contatoguero%40gmail.com-112240?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:contatoguero@gmail.com)
-[![Localização](https://img.shields.io/badge/Santa%20Maria%2C%20RS-Brasil-112240?style=for-the-badge&logo=googlemaps&logoColor=38bdf8)](#)
-[![Komarev](https://komarev.com/ghpvc/?username=zyzerkk&style=for-the-badge&color=112240&label=VISITAS&labelColor=0d1117)](https://github.com/zyzerkk)
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisotavioguero)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyzerkk)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoguero@gmail.com)
+
+<br/>
+
+## 🧠 Tech Stack
+
+**Linguagens**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & APIs**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Banco de Dados**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird_FDB-EF3939?style=for-the-badge&logo=firebird&logoColor=white)
+
+**Embedded, Hardware & IA**
+<br/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Modulus-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Testes & Ferramentas**
+<br/>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=zyzerkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyzerkk&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyzerkk&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<br/>
 
 </div>
 
 ---
 
-```python
-#!/usr/bin/env python3
+## 🕓 Atividade Recente
 
-class LuísOtávioGuero:
-    nome      = "Luís Otávio Guero"
-    idade     = 22
-    local     = "Santa Maria, RS — Brasil"
-    formação  = [
-        "Engenharia Aeroespacial · UFSM            (2023 – presente)",
-        "Engenharia de Software  · UNICESUMAR       (2022 – 2023)",
-        "TI + Eletrotécnica      · SESI SENAI       (2019 – 2021)",
-    ]
-    linguagens = ["Python", "C++", "TypeScript", "JavaScript", "SQL", "C"]
-    áreas      = [
-        "Sistemas Embarcados & CubeSat",
-        "Banco de Dados & Migração",
-        "Automação & IA Aplicada",
-        "Testes E2E Automatizados",
-        "RF & Comunicação por Rádio Frequência",
-        "Backend APIs (FastAPI / Node.js)",
-        "NVIDIA Modulus / Digital Twins",
-    ]
-    idiomas    = {"Português": "nativo", "Inglês": "avançado (lê, escreve, fala)"}
-    frase      = "Resolvo problemas reais com código real."
+### 🧠 NVIDIA Modulus — Digital Twins & Physics-ML
+**`UFSM · GEDRE (Grupo de Estudos de Reatores Eletrônicos)`** · em andamento
+
+Projeto Python aplicado a **Digital Twins com IA**, dentro da iniciativa de Comunicação por Luz Visível (VLC) do GEDRE. O foco é usar o **NVIDIA Modulus** (framework de Physics-Informed Machine Learning) para modelar e simular sistemas físicos.
+
+| Etapa | Status |
+|:---|:---:|
+| Tentativa inicial no Visual Studio Code | ❌ Abandonada — sem tutoriais compatíveis |
+| Migração para Google Colab (Python + GPU) | ✅ Concluída |
+| Contorno de link quebrado no GitLab da Nvidia | ✅ Resolvido via fóruns e comunidades |
+| Clonagem do repositório com token de acesso pessoal | ✅ Concluída |
+| Instalação das dependências (`setup.py install`) | ✅ Concluída |
+| Downgrade de versão do Python no Colab | 🟠 Em andamento |
+| Execução do exemplo oficial da Nvidia | ⏳ Próximo passo |
+
+```bash
+# Ambiente: Google Colab (Python + GPU)
+!git clone https://<username>:<token>@gitlab.com/nvidia/modulus/modulus.git
+%cd ./modulus/
+!python setup.py install
 ```
 
----
-
-## Stack Técnica Completa
-
-<div align="center">
-
-| Categoria | Tecnologias |
-|:---|:---|
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=38bdf8) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=38bdf8) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8) ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=38bdf8) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=38bdf8) ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=38bdf8) ![Webhooks](https://img.shields.io/badge/Webhooks-0d1117?style=flat-square&logo=zapier&logoColor=38bdf8) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=38bdf8) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=38bdf8) ![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8) ![Firebird](https://img.shields.io/badge/Firebird_FDB-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) |
-| **Embedded & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=38bdf8) ![PION](https://img.shields.io/badge/PION_Labs-0d1117?style=flat-square&logo=spacex&logoColor=38bdf8) ![RF LoRa](https://img.shields.io/badge/RF_LoRa_433MHz-0d1117?style=flat-square&logo=bluetooth&logoColor=38bdf8) |
-| **IA & Ciência** | ![NVIDIA Modulus](https://img.shields.io/badge/NVIDIA_Modulus-0d1117?style=flat-square&logo=nvidia&logoColor=38bdf8) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=38bdf8) ![Google Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=38bdf8) |
-| **Testes** | ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=38bdf8) ![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0d1117?style=flat-square&logo=meta&logoColor=38bdf8) |
-| **Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8) ![IBExpert](https://img.shields.io/badge/IBExpert-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) ![DB Visualizer](https://img.shields.io/badge/DB_Visualizer-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) |
-| **Deploy** | ![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=38bdf8) ![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=38bdf8) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=38bdf8) |
-
-</div>
+**Próximos passos:** finalizar o downgrade do Python, rodar o exemplo oficial da Nvidia até a conclusão, validar o ambiente e consolidar o entendimento dos conceitos-base do Modulus, e testar exemplos adicionais de aplicações.
 
 ---
 
-## Experiência Profissional
+## 💼 Experiência Profissional
 
 ### Zucchetti Software e Sistemas — Suporte Técnico N1 → N3
 `2021 – presente · +4 anos`
@@ -86,62 +132,31 @@ Iniciei no N1 e em **6 meses fui convidado a criar e liderar a equipe N2**. Prom
 -- 1. FDB → FDB: reestruturação de schema sem perda de dados
 BACKUP DATABASE 'origem.fdb' TO 'backup.fbk';
 RESTORE DATABASE 'backup.fbk' TO 'destino.fdb' PAGE_SIZE 8192;
--- Followed by: schema diff, index rebuild, constraint validation
 
 -- 2. PostgreSQL → FDB: conversão de tipos e charset
 -- PSQL uuid → FDB CHAR(36), PSQL jsonb → FDB BLOB SUB_TYPE TEXT
--- Estratégia: export CSV por tabela + import batch via IBExpert
 
 -- 3. CSV → FDB: importação massiva com validação
--- Limpeza de encoding (UTF-8/latin-1), normalização de datas,
--- deduplicação por chave de negócio antes do INSERT em lote
+-- Limpeza de encoding (UTF-8/latin-1), normalização de datas
 
 -- 4. MySQL → FDB: mapeamento de engines e collations
--- MyISAM/InnoDB → Firebird generators (sequences)
 -- AUTO_INCREMENT → BEFORE INSERT trigger + NEXT VALUE FOR gen
 
 -- 5. GDB → FDB: atualização de versão Firebird
--- GDB = Firebird <1.5 | FDB = Firebird 2.x/3.x/4.x
 ```
 
 **Ferramentas dominadas:** IBExpert · DB Visualizer · SQL Server · MySQL Workbench · MongoDB Compass · pgAdmin
 
 ---
 
-### UFSM — GEDRE (Grupo de Estudos de Reatores Eletrônicos)
-`junho – dezembro 2023`
-
-Programador Python no projeto **Visible Light Communication com IA** — sistema que utiliza inteligência artificial para manipular comunicação por luz visível (VLC).
-
-```python
-# Ambiente configurado: NVIDIA Modulus via Google Colab
-# VSCode não tinha suporte para as dependências — migração necessária
-
-# Clone do repositório Modulus (GitLab Nvidia)
-# !git clone https://<user>:<token>@gitlab.com/nvidia/modulus/modulus.git
-
-# Desafios enfrentados e resolvidos:
-# 1. Link GitLab da Nvidia desativado → busca em fóruns e comunidades
-# 2. Incompatibilidade de versão Python no Colab → downgrade controlado
-# 3. Instalação de dependências a partir de fontes alternativas verificadas
-
-# Stack: Python · C++ · NVIDIA Modulus (Physics-ML) · Google Colab GPU
-```
-
----
-
-## Projetos
+## 🚀 Projetos
 
 ### 🛰️ OBSAT — CubeSat Meteorológico · Equipe Halley
 
-<div align="center">
+![OBSAT](https://img.shields.io/badge/🥇_1°_Lugar_Nacional-OBSAT_2022_e_2023-112240?style=flat-square)
+![Lançamento](https://img.shields.io/badge/Lançamento_Sub--Orbital-CLBI_Natal%2FRN_Dez_2023-112240?style=flat-square)
 
-![OBSAT](https://img.shields.io/badge/🥇_1°_Lugar_Nacional-OBSAT_2022_e_2023-112240?style=flat-square&logoColor=38bdf8)
-![Lançamento](https://img.shields.io/badge/Lançamento_Sub--Orbital-CLBI_Natal%2FRN_Dez_2023-112240?style=flat-square&logoColor=38bdf8)
-
-</div>
-
-> Capitão, programador e desenvolvedor estrutural de um **CubeSat meteorológico** para detecção antecipada de tornados e ciclones tropicais em Santa Catarina. Projeto desenvolvido do zero, sem conhecimento prévio, evoluindo por 4 fases até o lançamento real.
+Capitão, programador e desenvolvedor estrutural de um **CubeSat meteorológico** para detecção antecipada de tornados e ciclones tropicais em Santa Catarina. Projeto desenvolvido do zero, evoluindo por 4 fases até o lançamento real.
 
 **Arquitetura do sistema:**
 
@@ -153,123 +168,6 @@ Programador Python no projeto **Visible Light Communication com IA** — sistema
 | Sensoriamento | C++/Arduino IDE | Temp, Pressão, CO₂, Acelerômetro XYZ, Giroscópio XYZ |
 | Armazenamento | Cartão SD duplo (backup) | CSV organizado + backup redundante |
 | Estrutura | Alumínio Aeronáutico 7075 | 100×100×100 mm · 420 g · Etaflon térmico |
-
-**Código C++ embarcado — inicialização e telemetria:**
-
-```cpp
-#include "PION_System.h"
-#include <WiFi.h>
-#include <HTTPClient.h>
-#include "FS.h"
-#include <PION_Storage.h>
-#include <ArduinoJson.h>
-#include <SoftwareSerial.h>
-#include <HardwareSerial.h>
-#include <TinyGPS++.h>
-
-#define NETWORK_SERVER "https://obsat.org.br/teste_post/envio.php"
-#define TEAM_NUM       "15"
-#define RXD2           16
-#define BTN1            4
-#define BTN2            5
-#define LED1            4
-
-TinyGPSPlus gps;
-SoftwareSerial loraSerial(2, 3); // TX, RX — Transmissor RF LoRa
-
-void conectarWifi() {
-  WiFi.begin("SSID", "SENHA");
-  while (WiFi.status() != WL_CONNECTED) { delay(500); }
-  Serial.println("WiFi conectada. IP: " + WiFi.localIP().toString());
-}
-
-void loop() {
-  DynamicJsonDocument jsonBuffer(512);
-  jsonBuffer["equipe"]      = TEAM_NUM;
-  jsonBuffer["bateria"]     = cubeSat.getBattery();
-  jsonBuffer["temperatura"] = cubeSat.getTemperature();
-  jsonBuffer["pressao"]     = cubeSat.getPressure();
-  jsonBuffer["umidade"]     = cubeSat.getHumidity();
-  jsonBuffer["co2"]         = cubeSat.getCO2Level();
-
-  JsonArray accel = jsonBuffer.createNestedArray("acelerometro");
-  accel.add(cubeSat.getAccelerometer(0)); // X
-  accel.add(cubeSat.getAccelerometer(1)); // Y
-  accel.add(cubeSat.getAccelerometer(2)); // Z
-
-  JsonArray gyro = jsonBuffer.createNestedArray("giroscopio");
-  gyro.add(cubeSat.getGyroscope(0));
-  gyro.add(cubeSat.getGyroscope(1));
-  gyro.add(cubeSat.getGyroscope(2));
-
-  // GPS payload
-  while (Serial1.available()) {
-    char cIn = Serial1.read();
-    gps.encode(cIn);
-    payload.add("Altitude: "  + String(gps.altitude.meters()));
-    payload.add("Latitude: "  + String(gps.location.lat(), 4));
-    payload.add("Longitude: " + String(gps.location.lng(), 4));
-    payload.add("Velocidade: "+ String(gps.speed.kmph()));
-  }
-}
-```
-
-**Organização do CSV no Cartão SD:**
-
-```cpp
-void createFileFirstLine(fs::FS &fs, const char *path) {
-  File file = fs.open(path, FILE_WRITE);
-  // Cabeçalho organizado da tabela de missão
-  const char *header = "Data,Hora,temperatura(C),Pressao,"
-                       "umidade(%),co2(ppm),Acelerometro,"
-                       "Giroscopio,bateria(%),Payload";
-  if (file.println(header)) Serial.println("Escrita começou");
-  else                       Serial.println("Falha na escrita");
-  file.close();
-}
-```
-
-**Programação RF LoRa — Transmissor e Receptor:**
-
-```cpp
-// === TRANSMISSOR ===
-SoftwareSerial loraSerial(2, 3); // TX, RX
-void setup() {
-  pinMode(BTN1, INPUT_PULLUP);
-  pinMode(BTN2, INPUT_PULLUP);
-  Serial.begin(9600);
-  loraSerial.begin(9600);
-}
-void loop() {
-  if (digitalRead(BTN1) == 0) {
-    loraSerial.print("on");
-    while (digitalRead(BTN1) == 0) { delay(50); }
-  }
-  if (digitalRead(BTN2) == 0) {
-    loraSerial.print("off");
-    while (digitalRead(BTN2) == 0) { delay(50); }
-  }
-}
-
-// === RECEPTOR ===
-void loop() {
-  if (loraSerial.available() > 1) {
-    String input = loraSerial.readString();
-    Serial.println(input);
-    if (input == "on")  { digitalWrite(LED1, HIGH); }
-    if (input == "off") { digitalWrite(LED1, LOW);  }
-    delay(20);
-  }
-}
-```
-
-**Dados reais coletados em missão (amostra do CSV):**
-
-| Equipe | Bateria (%) | Temp (°C) | Pressão (Pa) | CO₂ (ppm) | Acelerômetro XYZ | Status |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 15 | 64 | 15.68 | 93635.13 | 2265.00 | X=−0.89 Y=0.06 Z=−9.55 | ✅ Sucesso |
-| 15 | 64 | 15.67 | 93953.14 | 50.67 | X=−0.94 Y=0.06 Z=−9.55 | ✅ Sucesso |
-| 15 | 65 | 17.83 | 93619.21 | 12.59 | X=−0.48 Y=0.04 Z=−9.64 | ✅ Sucesso |
 
 **Testes de qualificação realizados:**
 
@@ -283,68 +181,95 @@ void loop() {
 | 💡 Luminosidade | 0% → 102% | ✅ Sensor calibrado |
 | 🎈 Voo | Balão atmosférico ~40 km de altitude | ✅ Satélite ativo |
 
+<details>
+<summary><b>Ver código embarcado — telemetria, CSV e RF LoRa</b></summary>
+
+```cpp
+#include "PION_System.h"
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include "FS.h"
+#include <PION_Storage.h>
+#include <ArduinoJson.h>
+#include <SoftwareSerial.h>
+#include <HardwareSerial.h>
+#include <TinyGPS++.h>
+
+TinyGPSPlus gps;
+SoftwareSerial loraSerial(2, 3); // TX, RX
+
+void loop() {
+  DynamicJsonDocument jsonBuffer(512);
+  jsonBuffer["equipe"]      = TEAM_NUM;
+  jsonBuffer["bateria"]     = cubeSat.getBattery();
+  jsonBuffer["temperatura"] = cubeSat.getTemperature();
+  jsonBuffer["pressao"]     = cubeSat.getPressure();
+  jsonBuffer["co2"]         = cubeSat.getCO2Level();
+
+  JsonArray accel = jsonBuffer.createNestedArray("acelerometro");
+  accel.add(cubeSat.getAccelerometer(0));
+  accel.add(cubeSat.getAccelerometer(1));
+  accel.add(cubeSat.getAccelerometer(2));
+
+  while (Serial1.available()) {
+    char cIn = Serial1.read();
+    gps.encode(cIn);
+    payload.add("Latitude: "  + String(gps.location.lat(), 4));
+    payload.add("Longitude: " + String(gps.location.lng(), 4));
+  }
+}
+```
+
+**Antena selecionada: Helicoidal** — 433 MHz · 30 dBi · 280g · 100mm altura × 66mm diâmetro, escolhida pela alta direcionalidade e ganho para comunicação sub-órbita → terra, com trade-off de fragilidade a vibrações mitigado por isolamento estrutural.
+
+</details>
+
 ---
 
 ### 🤖 Automação de Atendimento via WhatsApp com IA
 
-> Consultoria e desenvolvimento de backend Python que conecta WhatsApp Business a um LLM via API oficial, com sistema de memória contextual, fluxos de atendimento e deploy em produção.
-
-**Arquitetura do sistema:**
+Consultoria e desenvolvimento de backend Python que conecta WhatsApp Business a um LLM via API oficial, com sistema de memória contextual, fluxos de atendimento e deploy em produção.
 
 ```mermaid
 flowchart TD
-    A["📱 Cliente\nWhatsApp"] -->|"mensagem de texto"| B
-    B["🔗 360Dialog API\n― ponte oficial Meta/WhatsApp ―\n100–300 ms"] -->|"webhook POST"| C
-    C["⚡ FastAPI Server\n― webhook receiver + orquestrador ―\nPython · Render"] -->|"messages array + histórico"| D
-    D["🤖 OpenAI GPT-4o\n― LLM com prompt mestre + histórico ―\n1–2 segundos"] -->|"reply gerado"| C
-    C -->|"resposta formatada"| B
-    B -->|"entrega ao número"| A
+    A["📱 Cliente WhatsApp"] -->|mensagem| B["🔗 360Dialog API"]
+    B -->|webhook POST| C["⚡ FastAPI Server"]
+    C -->|histórico + prompt| D["🤖 OpenAI GPT-4o"]
+    D -->|reply| C
+    C -->|resposta| B
+    B -->|entrega| A
 ```
 
-**Servidor FastAPI — estrutura do webhook:**
+<details>
+<summary><b>Ver código do webhook FastAPI</b></summary>
 
 ```python
 from fastapi import FastAPI, Request
 from openai import OpenAI
-import httpx, json
+import httpx
 
 app    = FastAPI()
 client = OpenAI(api_key="...")
-
-# Histórico por número de telefone (memória contextual)
 historico: dict[str, list] = {}
 
 @app.post("/webhook")
 async def receber_mensagem(req: Request):
     body = await req.json()
-    numero  = body["from"]
-    texto   = body["text"]["body"]
+    numero, texto = body["from"], body["text"]["body"]
 
-    # Garante histórico da conversa
     if numero not in historico:
         historico[numero] = [{"role": "system", "content": PROMPT_MESTRE}]
 
     historico[numero].append({"role": "user", "content": texto})
-
-    resposta = client.chat.completions.create(
-        model    = "gpt-4o",
-        messages = historico[numero],
-    )
+    resposta = client.chat.completions.create(model="gpt-4o", messages=historico[numero])
     reply = resposta.choices[0].message.content
     historico[numero].append({"role": "assistant", "content": reply})
 
-    # Envia via 360Dialog
     await enviar_whatsapp(numero, reply)
     return {"status": "ok"}
-
-async def enviar_whatsapp(numero: str, mensagem: str):
-    async with httpx.AsyncClient() as http:
-        await http.post(
-            "https://waba.360dialog.io/v1/messages",
-            headers={"D360-API-KEY": "..."},
-            json={"to": numero, "type": "text", "text": {"body": mensagem}},
-        )
 ```
+
+</details>
 
 **Entregáveis (6 semanas):** levantamento de requisitos · backend + webhook · prompt mestre · fluxos de atendimento · deploy Render · documentação técnica · treinamento da equipe
 
@@ -352,101 +277,9 @@ async def enviar_whatsapp(numero: str, mensagem: str):
 
 ### 🧪 Testes E2E Automatizados — Meta Pixel + Checkout
 
-> Suite Playwright que abre o link do criativo do anúncio, scrolla a página, clica nos botões e preenche o checkout automaticamente — validando cada evento do Meta Pixel interceptando as requisições HTTP em tempo real.
-
-<div align="center">
-<img src="./e2e-flow.svg" alt="E2E Test Flow — Meta Pixel + Checkout" width="520"/>
-</div>
-
-```typescript
-// tests/meta-ads-checkout.spec.ts
-import { test, expect, Page } from '@playwright/test'
-
-const AD_URL        = 'https://seusite.com/lp/produto'
-const META_PIXEL_ID = 'SEU_PIXEL_ID'
-
-test('jornada completa: criativo → scroll → CTA → checkout', async ({ page }) => {
-  const eventos: string[] = []
-
-  // Intercepta TODAS as requisições ao Meta Pixel em tempo real
-  page.on('request', (req) => {
-    const url = req.url()
-    if (url.includes('facebook.com/tr/') && url.includes(META_PIXEL_ID)) {
-      const ev = new URLSearchParams(url.split('?')[1] ?? '').get('ev')
-      if (ev) {
-        eventos.push(ev)
-        console.log(`✓ Pixel event: ${ev}`)
-      }
-    }
-  })
-
-  // 1. Acessa a landing page do criativo
-  await page.goto(AD_URL, { waitUntil: 'networkidle' })
-  await page.waitForTimeout(2000)
-  expect(eventos).toContain('PageView')
-
-  // 2. Scroll suave — simula comportamento real do usuário
-  await page.evaluate(() =>
-    window.scrollBy({ top: window.innerHeight * 0.3, behavior: 'smooth' })
-  )
-  await page.waitForTimeout(700)
-  await page.evaluate(() =>
-    window.scrollBy({ top: window.innerHeight * 0.5, behavior: 'smooth' })
-  )
-  await page.waitForTimeout(700)
-
-  // 3. Scroll até o CTA e clique
-  const cta = page.locator('button:has-text("Comprar"), [data-cta], a:has-text("Quero")').first()
-  await cta.scrollIntoViewIfNeeded()
-  await page.waitForTimeout(500)
-  await cta.click()
-
-  // 4. Aguarda checkout (navegação ou modal)
-  await page.waitForURL(/checkout|cart/, { timeout: 8000 }).catch(() => {})
-  await page.waitForTimeout(2000)
-  expect(eventos).toContain('InitiateCheckout')
-
-  // 5. Preenche formulário de checkout com dados de teste
-  const fill = async (sel: string, val: string) => {
-    const el = page.locator(sel).first()
-    if (await el.isVisible().catch(() => false)) await el.fill(val)
-  }
-
-  await fill('input[name*="nome"], input[placeholder*="nome"]', 'Teste Automatizado')
-  await fill('input[type="email"]',                             'qa@teste.com')
-  await fill('input[name*="cpf"], input[placeholder*="CPF"]',  '000.000.000-00')
-  await fill('input[name*="card"]',                            '4111111111111111')
-  await fill('input[name*="expiry"]',                          '12/30')
-  await fill('input[name*="cvv"]',                             '123')
-
-  // 6. Screenshot como evidência do teste
-  await page.screenshot({ path: 'tests/evidencias/checkout.png', fullPage: true })
-
-  // 7. Relatório final
-  console.log('\n── Eventos capturados ──')
-  eventos.forEach(ev => console.log(`  • ${ev}`))
-
-  expect(eventos).toContain('PageView')
-  expect(eventos).toContain('InitiateCheckout')
-})
-
-test('smoke — pixel fbq existe na página', async ({ page }) => {
-  await page.goto(AD_URL, { waitUntil: 'networkidle' })
-  const loaded = await page.evaluate(() => typeof (window as any).fbq === 'function')
-  expect(loaded).toBe(true)
-})
-
-test('smoke — sem erros críticos de console', async ({ page }) => {
-  const erros: string[] = []
-  page.on('console', m => { if (m.type() === 'error') erros.push(m.text()) })
-  await page.goto(AD_URL, { waitUntil: 'networkidle' })
-  const criticos = erros.filter(e => !e.includes('favicon') && !e.includes('ERR_BLOCKED'))
-  expect(criticos.length).toBe(0)
-})
-```
+Suite Playwright que abre o link do criativo do anúncio, scrolla a página, clica nos botões e preenche o checkout automaticamente — validando cada evento do Meta Pixel interceptando as requisições HTTP em tempo real.
 
 **Cobertura:**
-
 ```
 ✓ PageView            — pixel inicializado e disparado
 ✓ InitiateCheckout    — evento ao clicar no CTA
@@ -457,41 +290,38 @@ test('smoke — sem erros críticos de console', async ({ page }) => {
 ✓ Desktop (Chrome) + Mobile (iPhone 14)
 ```
 
----
+<details>
+<summary><b>Ver código do teste Playwright</b></summary>
 
-## Antenas CubeSat — Estudo Técnico
+```typescript
+import { test, expect } from '@playwright/test'
 
-> Pesquisa e seleção da antena ideal para o CubeSat Halley, considerando frequência, ganho, tamanho e restrições de peso.
+test('jornada completa: criativo → scroll → CTA → checkout', async ({ page }) => {
+  const eventos: string[] = []
 
-**✅ Antena selecionada: Helicoidal**
+  page.on('request', (req) => {
+    const url = req.url()
+    if (url.includes('facebook.com/tr/')) {
+      const ev = new URLSearchParams(url.split('?')[1] ?? '').get('ev')
+      if (ev) eventos.push(ev)
+    }
+  })
 
-| Parâmetro | Valor |
-|:---|:---:|
-| 📡 Frequência | 433 MHz |
-| 📶 Ganho | 30 dBi |
-| ⚖️ Peso | 280 g |
-| 📐 Dimensões | 100 mm altura × 66 mm diâmetro |
+  await page.goto(AD_URL, { waitUntil: 'networkidle' })
+  expect(eventos).toContain('PageView')
 
-**Razão da escolha:**
+  const cta = page.locator('button:has-text("Comprar")').first()
+  await cta.click()
+  await page.waitForURL(/checkout|cart/, { timeout: 8000 }).catch(() => {})
+  expect(eventos).toContain('InitiateCheckout')
+})
+```
 
-| | Critério |
-|:---:|:---|
-| ✅ | Alta direcionalidade para comunicação com estação terrestre |
-| ✅ | Alto ganho para longas distâncias (sub-órbita → terra) |
-| ✅ | Tamanho compacto compatível com CubeSat 1U |
-| ⚠️ | Trade-off: sensível a variações de frequência e frágil a vibrações → **mitigado com isolamento estrutural** |
-
-**Alternativas avaliadas e descartadas:**
-
-| Antena | Vantagens | Motivo do Descarte |
-|:---|:---|:---|
-| Dipolo | Omnidirecional, ganho médio, simples | ❌ Ganho insuficiente |
-| Patch | Baixo perfil, leve, fácil fabricação | ❌ Banda estreita |
-| Monopolo | Design simples, omnidirecional | ❌ Baixo ganho |
+</details>
 
 ---
 
-## Premiações
+## 🏆 Premiações
 
 | Medalha | Competição | Período | Contexto |
 |:---:|:---|:---:|:---|
@@ -506,7 +336,11 @@ test('smoke — sem erros críticos de console', async ({ page }) => {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+## 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
 
 `contatoguero@gmail.com` · `Santa Maria, RS · Brasil` · [`linkedin.com/in/luisotavioguero`](https://linkedin.com/in/luisotavioguero)
 
